@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-There's nothing to see here yet....
+This is a parking spot for my notes around Analytics and Data science.
 
 {% include footer.html %}
