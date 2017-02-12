@@ -1,3 +1,5 @@
-name: Test
+name: Amit's Test Page...
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+font-awesome-include: true
