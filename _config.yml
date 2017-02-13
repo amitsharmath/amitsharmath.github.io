@@ -20,7 +20,7 @@ url:            'www://amitsharmath.com/blog'
 author:         'Amit Sharma'
 #authorTwitter:  'YourTwitterUsername'
 
-permalink:       /:year/:title/
+permalink:       /:year/:month/:title/
 
 defaults:
     -
